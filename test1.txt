@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is BAC5-4AFA
+
+ Directory of C:\Users\owner\Desktop\gitproj
+
+16-12-2018  12:58    <DIR>          .
+16-12-2018  12:58    <DIR>          ..
+16-12-2018  12:58                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   9,648,312,320 bytes free
